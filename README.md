@@ -2,8 +2,11 @@
 
 
 ### Project Description:
-``` markdown
-Here the task is to investigate the difference in transcription data of Liver biopsies from Normal, Steatosis, NASH and HCC patients. Steatosis is a condition identified by liver enlargement and accumulation of lipids (in > 5% of hepatocytes), mostly without inflammation in the liver. Untreated steatosis can result in NASH (Non-Alcoholic Steatohepatitis), a more advanced condition (20-25% accumulation of fat in hepatocytes) identified by liver inflammation and can cause liver scarring. This condition can lead into a more severe problem such as irreversible cirrhosis and HCC, which is one of the deadliest and most common type of liver cancer.
+```markdown
+Here the task is to investigate the difference in transcription data of Liver biopsies from Normal, Steatosis, NASH and HCC patients. 
+Steatosis is a condition identified by liver enlargement and accumulation of lipids (in > 5% of hepatocytes), mostly without inflammation in the liver. 
+Untreated steatosis can result in NASH (Non-Alcoholic Steatohepatitis), a more advanced condition (20-25% accumulation of fat in hepatocytes) identified by liver inflammation and can cause liver scarring. 
+This condition can lead into a more severe problem such as irreversible cirrhosis and HCC, which is one of the deadliest and most common type of liver cancer.
 The data consists of RNA-Seq raw count values from liver samples from in total 97 samples.
 ```
 
@@ -35,7 +38,7 @@ The data consists of RNA-Seq raw count values from liver samples from in total 9
 - Visualization (pathway networks and heatmaps among different settings of Piano)
 ```
 
-###Links within my project:
+### Links within my project:
 [Project Diary](https://github.com/WangXueqing007/BB2491-Project-Transcriptomics9/wiki)
 
 ```markdown
