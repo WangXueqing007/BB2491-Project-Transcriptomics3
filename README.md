@@ -1,5 +1,6 @@
 ## Welcome to My Project Page of BB2491!
 
+### Link to [Project Diary](https://github.com/WangXueqing007/BB2491-Project-Transcriptomics9/wiki)
 
 ### Project Description:
 ```markdown
@@ -38,8 +39,6 @@ The data consists of RNA-Seq raw count values from liver samples from in total 9
 - Visualization (pathway networks and heatmaps among different settings of Piano)
 ```
 
-### Links within my project:
-[Project Diary](https://github.com/WangXueqing007/BB2491-Project-Transcriptomics9/wiki)
 
 ```markdown
 You can use the [editor on GitHub](https://github.com/WangXueqing007/BB2491-Project-Transcriptomics3/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
