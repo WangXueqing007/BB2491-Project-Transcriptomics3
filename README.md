@@ -2,13 +2,17 @@
 
 
 ### Project Description:
+``` markdown
 Here the task is to investigate the difference in transcription data of Liver biopsies from Normal, Steatosis, NASH and HCC patients. Steatosis is a condition identified by liver enlargement and accumulation of lipids (in > 5% of hepatocytes), mostly without inflammation in the liver. Untreated steatosis can result in NASH (Non-Alcoholic Steatohepatitis), a more advanced condition (20-25% accumulation of fat in hepatocytes) identified by liver inflammation and can cause liver scarring. This condition can lead into a more severe problem such as irreversible cirrhosis and HCC, which is one of the deadliest and most common type of liver cancer.
 The data consists of RNA-Seq raw count values from liver samples from in total 97 samples.
+```
 
 ### Aims: 
+```markdown
 - Perform quality control and normalization of the data and identify the biological and technical replicates.
 - Perform differential expression analysis to understand the transcriptional changes in each progression step.
 - Analysis of the result and compare with previously published results and/or available resources such as Human Pathology Atlas.
+```
 
 ### Tools:
 ```markdown
@@ -34,6 +38,7 @@ The data consists of RNA-Seq raw count values from liver samples from in total 9
 ###Links within my project:
 [Project Diary](https://github.com/WangXueqing007/BB2491-Project-Transcriptomics9/wiki)
 
+```markdown
 You can use the [editor on GitHub](https://github.com/WangXueqing007/BB2491-Project-Transcriptomics3/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -69,3 +74,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+```
