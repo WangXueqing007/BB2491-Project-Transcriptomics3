@@ -22,8 +22,8 @@ The data consists of RNA-Seq raw count values from liver samples from in total 9
 ```markdown
 1. Programming languages: Python, R
 2. Packages used:
-- Pandas (python), DESeq2 (R), Piano (R) --directly
-- Limma, David, ANOVA --learned (or done by other members in the group), but didn't performed by myself
+- Pandas (python), DESeq2 (R), Piano (R), DAVID, PathwAX --directly
+- Limma, ANOVA, Cytoscape --learned (or done by other members in the group), but didn't performed by myself
 ```
 
 ### Results:
@@ -34,46 +34,10 @@ The data consists of RNA-Seq raw count values from liver samples from in total 9
 - Volcano plot and t-SNE (Done by Dimitri);
 3. ANOVA (Done by Mahammad).
 4. Piano:
-- Got the number of changed pathways and their statistics, with FDR <= 5%;
+- Got the number of disturbed pathways and their statistics (including regulation directions), with FDR <= 5%;
 - Literature searching, understanding the physiological meaning of the extracted pathways, validating our results with others' studies, and ruling out unreasonable pathways.
 - Visualization (pathway networks and heatmaps among different settings of Piano)
+5. DAVID/PathwAX: 
+-  Got the number of disturbed pathways and their statistics. This part of results is not included in our poster.
 ```
 
-
-```markdown
-You can use the [editor on GitHub](https://github.com/WangXueqing007/BB2491-Project-Transcriptomics3/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WangXueqing007/BB2491-Project-Transcriptomics3/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-```
